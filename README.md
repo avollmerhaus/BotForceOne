@@ -4,10 +4,7 @@ BotForceOne
 Just another irc bot.
 Based on the python [irc3 library](https://github.com/gawel/irc3)
 
-Review the example config, then run the bot like this:
-```shell
-
-```
+Copy and review example config, then run the bot using either the dev or prod methods.
 
 ## Dev environment
 
