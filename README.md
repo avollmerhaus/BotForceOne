@@ -11,8 +11,9 @@ Copy and review example config, then run the bot using either the dev or prod me
 ### Using poetry
 If poetry is not packaged for your environment, you can run it from a virtualenv.
 
+The next 2 sections assume your shell is at the repo root.
+
 #### Installation
-From the repo root:
 ```shell
 poetry install
 ```
